@@ -8,14 +8,6 @@ Construindo software com foco em **arquitetura, automação e eficiência operac
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-JuanRiber-181717?style=for-the-badge\&logo=github)](https://github.com/JuanRiber)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Ribeiro-0A66C2?style=for-the-badge\&logo=linkedin)]([www.linkedin.com/in/juan-ribeiro-364bb8381])
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:juanpedrodrinho@gmail.com)
-
-</div>
-
----
-
 ## 👨‍💻 Sobre
 
 Sou **Desenvolvedor de Software** com atuação em **backend, infraestrutura, cloud e DevOps**, interessado em transformar problemas complexos em soluções simples, escaláveis e sustentáveis.
