@@ -112,5 +112,5 @@
     <strong>back-end, cloud e automação</strong>.
   </p>
 
-  <p><em>Do código à infraestrutura — construindo soluções que funcionam no mundo real.</em></p>
+  <p><em>Do código à infraestrutura, construindo soluções que funcionam no mundo real.</em></p>
 </div>
