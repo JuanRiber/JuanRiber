@@ -13,7 +13,11 @@
   <p>
     <a href="https://github.com/JuanRiber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/juan-ribeiro-364bb8381/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:juanpedrodrinho@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail" /></a>
+    
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=juanpedrodrinho@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
+</a>
+
   </p>
 </div>
 
